@@ -1,3 +1,7 @@
+<p align="center">
+  <img  src="./images/background.png">
+</p>
+
 <h1 align="center">
 Leveraging Deep Learning and Medical Image Analysis for Enhanced Breast Cancer Diagnosis </h1>
 
@@ -10,4 +14,7 @@ The presented architecture leverages the benefits of patch-based image analysis 
 This strategy's effectiveness becomes evident through its outcomes. Achieving an impressive 90.81% Accuracy, along with high Precision, Recall, and AUC values at 100X magnifications, underscores the model's prowess in high-resolution analysis. Notably, this approach outperforms conventional whole-slide image analysis, highlighting its advantage in capturing finer details for accurate classification.
 
 Beyond accuracy, this methodology also offers enhanced performance. The patch-based approach optimally processes large-dimensional tumour regions without the need for resource-intensive whole-slide image analysis. This scalability contributes to quicker processing times, allowing for swift predictions and efficient utilization of computational resources.
+</p>
+<p align="center">
+  <img  src="./images/architecture.PNG">
 </p>
